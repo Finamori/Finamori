@@ -17,3 +17,8 @@ Hi there, I’m Paulo Finamori
 </center>  
 
 
+
+
+
+
+![](https://komarev.com/ghpvc/?username=Finamori)
