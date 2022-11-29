@@ -1,5 +1,5 @@
 ### Hi there! I’m Paulo Finamori <img src="https://github.com/Finamori/Finamori/blob/main/images/Hi.gif" width="30px">
-- 🖥 Full-Stack Software Developer  
+- 🖥 Software Developer Engineer  
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/paulo-finamori"><img src="https://github.com/Finamori/Finamori/blob/main/images/linkedin.png" width="16"></img></a> 
   <a href="mailto:paulofinamori@gmail.com"><img src="https://github.com/Finamori/Finamori/blob/main/images/gmail.png" width="16"></img></a> 
 
